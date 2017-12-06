@@ -12,8 +12,8 @@
 ```cpp
     #include
 ```
-3. TODO List
+3. TODO List  
 \- [x] fix  app bug:  
-- [x] fix  app bug(怎么实现和上行相同的缩进？)
-- [ ] fix
+    - [x] fix  app bug
+    - [ ] fix
 

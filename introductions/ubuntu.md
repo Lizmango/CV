@@ -8,6 +8,6 @@ apt-get install...
 ```
 git clone...
 ```
-- switching of input method
+- switching of input method  
 switch to English mode and click 
-Ctrl + Alt + H 
+`Ctrl + Alt + H` 
