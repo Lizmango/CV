@@ -4,7 +4,13 @@
 
 - Learn about distortions in camera, intrinsic and extrinsic parameters of camera etc.
 - Learn to find these parameters, undistort images etc.
+**original image**
+![](assets/chess04.jpg)
 
+
+  **undistort image**
+
+  ![](assets/calirest.png)
 
 ### Basics
 
