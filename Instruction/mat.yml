@@ -1,0 +1,16 @@
+camera_matrix:
+  cols: 3
+  data:
+  - 2302.59
+  - 0
+  - 610.756
+  - 0
+  - 2309.46
+  - 506.539
+  - 0
+  - 0
+  - 1
+  rows: 3
+camera_name: xiaohua
+image_height: 960
+image_width: 1280
